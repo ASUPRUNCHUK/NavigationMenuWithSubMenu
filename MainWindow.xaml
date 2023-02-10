@@ -14,7 +14,7 @@
         
         <!--Our side menu custom control-->
         <!--here-->
-        <customcontrol:MenuWithSubMenuControl HasIcon="True" SubMenuPadding="15,0,0,0"/>
+     
 
 
         <!--and frame for pages to navigate when a menu is selected-->
